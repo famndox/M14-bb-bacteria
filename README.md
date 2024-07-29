@@ -1,7 +1,7 @@
 # M14-bb-bacteria
 
 An interactive adventure through various belly buttons, their jungle of microbial diversity, and weekly washing frequencies (; WFREQ ;). <br>
-![Body Image](navel.png "Tasty Pie")
+![Body Image](navel.jpg "Tasty Pie")<br>
 Please enjoy this mighty javascript visualization celebrating the 2300 species of bacteria detected in 60 navels!<br>
 
 Totally SFW, not gross... just some pretty data.<br>
