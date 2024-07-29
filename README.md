@@ -3,7 +3,8 @@
 An interactive adventure through various belly buttons, their bacteria, and weekly washing frequencies (; WFREQ ;). 
 
 Totally SFW, not gross... just some pretty data.<br>
-tl;dr <a href='https://famndox.github.io/M14-bb-bacteria/index.html'>Try It For Yourself</a><br>
+
+<a href='https://famndox.github.io/M14-bb-bacteria/index.html'>Try It For Yourself</a><br>
 
 P.S. Don't forget to wash!
 
